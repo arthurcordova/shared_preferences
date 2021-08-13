@@ -25,6 +25,10 @@ class AppPreferences(context: Context) {
         println("")
     }
 
+    fun limpaNome() {
+        println("")
+    }
+
     fun naoQueroLimparNOme() {
 
     }
