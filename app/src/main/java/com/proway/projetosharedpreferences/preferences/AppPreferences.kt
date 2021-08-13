@@ -21,10 +21,6 @@ class AppPreferences(context: Context) {
         }
     }
 
-    fun somenteNaNovaFeature() {
-        println("")
-    }
-
     fun limpaNome() {
         println("")
     }
