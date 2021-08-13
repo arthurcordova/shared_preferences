@@ -21,6 +21,12 @@ class AppPreferences(context: Context) {
         }
     }
 
+    fun somenteNaNovaFeature() {
+        println("")
+    }
+
+
+
 }
 
 
