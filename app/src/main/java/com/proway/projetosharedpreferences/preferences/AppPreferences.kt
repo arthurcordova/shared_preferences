@@ -26,6 +26,10 @@ class AppPreferences(context: Context) {
     }
 
 
+    fun limpaNome() {
+        println("")
+    }
+
 
 }
 
