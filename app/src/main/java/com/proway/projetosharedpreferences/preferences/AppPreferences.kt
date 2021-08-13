@@ -25,6 +25,9 @@ class AppPreferences(context: Context) {
         println("")
     }
 
+    fun naoQueroLimparNOme() {
+
+    }
 
 
 }
